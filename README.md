@@ -1,5 +1,5 @@
 # 🧪 Pruebas Unitarias con Pytest en JuegoBricks
-
+#Esteban Giovanny Meneses Paz
 ## 📦 Instalación de Dependencias
 
 Ejecuta los siguientes comandos para instalar las herramientas necesarias:
